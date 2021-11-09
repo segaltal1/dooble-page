@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/dooble-page/static/css/main.b466802c.chunk.css",
+    "main.css": "/dooble-page/static/css/main.ad32a075.chunk.css",
     "main.js": "/dooble-page/static/js/main.a7c38c1f.chunk.js",
     "main.js.map": "/dooble-page/static/js/main.a7c38c1f.chunk.js.map",
     "runtime-main.js": "/dooble-page/static/js/runtime-main.206b588b.js",
@@ -8,14 +8,14 @@
     "static/js/2.63511879.chunk.js": "/dooble-page/static/js/2.63511879.chunk.js",
     "static/js/2.63511879.chunk.js.map": "/dooble-page/static/js/2.63511879.chunk.js.map",
     "index.html": "/dooble-page/index.html",
-    "static/css/main.b466802c.chunk.css.map": "/dooble-page/static/css/main.b466802c.chunk.css.map",
+    "static/css/main.ad32a075.chunk.css.map": "/dooble-page/static/css/main.ad32a075.chunk.css.map",
     "static/js/2.63511879.chunk.js.LICENSE.txt": "/dooble-page/static/js/2.63511879.chunk.js.LICENSE.txt",
     "static/media/puff.3b5c50a5.svg": "/dooble-page/static/media/puff.3b5c50a5.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.206b588b.js",
     "static/js/2.63511879.chunk.js",
-    "static/css/main.b466802c.chunk.css",
+    "static/css/main.ad32a075.chunk.css",
     "static/js/main.a7c38c1f.chunk.js"
   ]
 }
